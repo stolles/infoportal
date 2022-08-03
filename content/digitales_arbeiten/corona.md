@@ -8,7 +8,7 @@ insert_anchor_links = "right"
 
 # Arbeiten in Zeiten von Corona
 
-*Stand: 10.11.2020*
+*Stand: 03.08.2022*
 
 Die meisten Mitarbeiter der sächsischen außeruniversitären Institute müssen sich derzeit aufgrund der außergewöhnlichen Situation mit dem Thema “Home Office” auseinandersetzen. Um dennoch produktiv und kooperativ arbeiten zu können, hat das KompetenzwerkD Ihnen eine Liste mit Links und Hinweisen zusammengestellt, wie Sie die nächste Zeit an verteilten Arbeitsplätzen mit digitalen Besprechungen & Co. hoffentlich meistern können. Sicherlich wird nicht alles perfekt funktionieren, denn gerade technische Lösungen erfordern oft Zeit zur Vorbereitung und werden überlastet sein. Deshalb führen wir hier Optionen auf und erlauben uns Hinweise aus unserer Erfahrung.
 
@@ -31,7 +31,7 @@ Hier gilt: Durch den erhöhten Bedarf ist aktuell mit technischen Ausfällen ein
 ### Weitere Programme
 open source:
 * [Big Blue Button](https://bigbluebutton.org/) - Open Source und guter Datenschutz, unsere Empfehlung, auch für große Gruppen (Vorlesungen)
-* [DFN - der Konferenzdienst im Deutschen Forschungsnetz](https://www.conf.dfn.de/nur) - Mit DFN/Uni-Account nutzbar, verwendet die Plattformen Adobe Connect und Pexip 
+* [DFN - der Konferenzdienst im Deutschen Forschungsnetz](https://www.conf.dfn.de) - Mit DFN/Uni-Account nutzbar, verwendet die Plattformen Adobe Connect und Pexip 
 * [Jitsi](https://jitsi.org/) - [Liste von öffentlichen Jitsi- Instanzen](https://github.com/jitsi/jitsi-meet/wiki/Jitsi-Meet-Instances) - für kleinere Gruppen unter 10 Leute
 * [Palava](https://palava.tv/) - für max. 5 Personen
 * [Streamyard](https://streamyard.com/) - Software zum Livestreamen in YouTube, Facebook, LinkedIn etc., z. B. für Vorträge und Lehrveranstaltungen
