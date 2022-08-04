@@ -68,7 +68,7 @@ Für den Schwerpunkt der (Digitalen) Geistes- und Sozialwissenschaften existiere
 <br />
 
 ### Berd@NFDI
-* Webauftritt: https://www.berd-nfdi.de/
+* Webauftritt: [Link](https://www.berd-nfdi.de/)
 * Kontakt: Prof. Dr. Florian  Stahl  florian.stahl@uni-mannheim.de
 * Stand: Berd@NFDI wurde entsprechend der Förderempfehlung des NFDI-Expertengremiums in der zweiten Runde (Antrag 2020, Förderzusage 2021) des NFDI-Aufbaus zur Förderung ausgewählt.
 * Beteiligte Netzwerkpartner: -
