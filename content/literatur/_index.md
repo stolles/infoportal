@@ -59,10 +59,10 @@ Sie haben eine Empfehlung für ein Publikation, haben im Internet ein ertragreic
 
 
 ### Tutorials, akademische Lehre:
-* Übersicht v. a. für die Geschichtswissenschaften: [Programming Historian](programminghistorian.org)
-* Kursmaterial für „Digital Arts & Humanities“: [Dariah-Teach](teach.dariah.eu)
-* Standard-Webtechnologien (z. B. HTML, Java): [W3Schools](www.w3schools.com)
-* Web-Programmierung, Skripte, Big Data: [Guru99](www.guru99.com)
+* Übersicht v. a. für die Geschichtswissenschaften: [Programming Historian](http://programminghistorian.org/)
+* Kursmaterial für „Digital Arts & Humanities“: [Dariah-Teach](https://teach.dariah.eu/)
+* Standard-Webtechnologien (z. B. HTML, Java): [W3Schools](https://www.w3schools.com/)
+* Web-Programmierung, Skripte, Big Data: [Guru99](https://www.guru99.com/)
 * Python, Einführung (Bsp. Hirnforschung, für alle Einsteiger:innen): [Python-Einführung für Programmieranfänger](http://eckhartarnold.de/teaching/python_and_nengo_intro.html)
 * Einführung in das [Python-basierte Web-Framework Django](https://tutorial.djangogirls.org/en/)
 * Python-Kurs für Digital Humanities (Englisch) [von W. J. B. Mattingly](https://pythonhumanities.com/lesson-01-introduction-to-python-for-dh/) und [siehe auch hier](https://pythonhumanities.com/about/#)
@@ -80,12 +80,12 @@ Sie haben eine Empfehlung für ein Publikation, haben im Internet ein ertragreic
 * Clare, Connie; Cruz, Maria; Papadopoulou, Elli; Savage, James; Teperek, Marta; Wang, Yan; Witkowska, Iza; Yeomans, Joanne: Engaging Researchers with Data Management: The Cookbook. Cambridge, UK 2019, [open access hier.](https://doi.org/10.11647/OBP.0185)
 * Heise, Christian: Von Open Access zu Open Science: Zum Wandel digitaler Kulturen der wissenschaftlichen Kommunikation. meson press, Lüneburg 2018, [open access hier.](https://doi.org/10.14619/1303)
 * Jensen, Uwe; Netscher, Sebastian; Weller, Katrin (Hrsg.): Forschungsdatenmanagement sozialwissenschaftlicher Umfragedaten. Grundlagen und praktische Lösungen für den Umgang mit quantitativen Forschungsdaten, Leverkusen 2019, DOI: 10.3224/84742233, [open access hier.](https://shop.budrich.de/produkt/forschungsdatenmanagement-sozialwissenschaftlicher-umfragedaten/)
-* Kreutzer, Till; Lahmann, Henning: Rechtsfragen bei Open Science. Ein Leitfaden, Hamburg 2021, 2. Auflage, [open access hier.](dx.doi.org/10.15460/HUP.195)
+* Kreutzer, Till; Lahmann, Henning: Rechtsfragen bei Open Science. Ein Leitfaden, Hamburg 2021, 2. Auflage, [open access hier.](http://dx.doi.org/10.15460/HUP.195)
 * Putnings, Markus; Neuroth, Heike; Neumann, Janna (Hrsg.): Praxishandbuch zum Forschungsdatenmanagement, Berlin 2021, De Gruyter, [open access hier](https://doi.org/10.1515/9783110657807). Zudem ist die gesammelte Literatur [auf Zotero zu finden.](https://www.zotero.org/groups/2497964/praxishandbuch_forschungsdatenmanagement)
 * Forschungsdatenmanagement in der Film- und Medienwissenschaft: Arbeitspraktiken und Erkenntnisprozesse: <https://mediarxiv.org/fr358/>
 
 ### Tutorials, Kurse, akademische Lehre:
-* DARIAH-DE Winter School: [Shaping new approaches to data management in arts and humanities](https://campus.dariah.eu/resource/ws2019)
+* Die Digital Humanities Course Registry von CLARIN und DARIAH bietet eine sehr hilfreiche Übersicht: [Link](https://dhcr.clarin-dariah.eu/ )
 * [FDM-Schulungsunterlagen der Universität Hannover](https://www.fdm.uni-hannover.de/de/materialien/)
 * Schulungsmaterial zum Forschungsdatenmanagement: [Zotero-Gruppe der Universität Leipzig](https://zenodo.org/communities/fdm_ul/?page=1&size=20)
 
