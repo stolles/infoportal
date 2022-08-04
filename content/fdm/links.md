@@ -12,7 +12,7 @@ insert_anchor_links = "right"
 Unter diesen Links finden Sie Einführungen zum Thema [Forschungsdatenmanagement](@/glossar/_index.md#forschungsdatenmanagement). 
 
 * [Generelle Informationen zum Thema FDM des Digital Curation Centres](http://www.dcc.ac.uk/resources/data-management-plans)
-* [Empfehlungen zum Forschungsdatenmanagement der Leibniz Universität Hannover](https://www.fdm.uni-hannover.de/de/kurz-erklaert/empfehlungen/) sowie [dazugehörige Materialien](https://www.fdm.uni-hannover.de/de/materialien/)
+* [Empfehlungen zum Forschungsdatenmanagement der Leibniz Universität Hannover](https://www.fdm.uni-hannover.de/de/kurz-erklaert/empfehlungen-zum-umgang-mit-forschungsdaten/) sowie [dazugehörige Materialien](https://www.fdm.uni-hannover.de/de/materialien/)
 * [Allgemeine Übersicht FDM der HU Berlin](https://www.cms.hu-berlin.de/de/dl/dataman)
 
 ## Leitfäden und Anleitungen
@@ -38,7 +38,7 @@ Es gibt auch Tools (Web-Application oder Software), mit denen Sie einen Datenman
 
 Zahlreiche Förderer verlangen mittlerweile einen Datenmanagementplan als Teil eines Projektantrags. Hier können Sie nachlesen, was DFG und EU beispielsweise verlangen; andere Förderer orientieren sich oft daran.
 
-* [DFG – Leitlinien zum Umgang mit Forschungsdaten](https://www.dfg.de/foerderung/antrag_gutachter_gremien/antragstellende/nachnutzung_forschungsdaten/index.html)
+* [DFG – Leitlinien zum Umgang mit Forschungsdaten](https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/forschungsdaten/forschungsfoerderung/index.html )
 * [Europäische Kommission – Programme Guidelines on FAIR Data Management in Horizon 2020](http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf)
 
 ## Forschungsdatenrepositorien finden
